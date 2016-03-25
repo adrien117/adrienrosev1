@@ -29,7 +29,7 @@
   },
 
   "commands": {
-    "web": "Microsoft.AspNet.Server.Kestrel --server.urls=http://13.76.90.19:8080/",
+    "web": "Microsoft.AspNet.Server.Kestrel --server.urls=http://theadrienmethod.cloudapp.net:8080",
     "ef": "EntityFramework.Commands"
   },
 
